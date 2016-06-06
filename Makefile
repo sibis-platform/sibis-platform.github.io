@@ -12,9 +12,9 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
+SSH_HOST=sibis.sri.com
 SSH_PORT=22
-SSH_USER=root
+SSH_USER=sibis
 SSH_TARGET_DIR=/var/www
 
 S3_BUCKET=my_s3_bucket

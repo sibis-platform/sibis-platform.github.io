@@ -17,11 +17,15 @@ DEFAULT_LANG = "en"
 THEME = "/Users/nicholsn/Repos/pelican-themes/pelican-bootstrap3"
 
 # Theme specific config
+MENUITEMS = [['Scalable Informatics for Biomedical Imaging Studies', 'index.html'],
+             ['About', 'pages/about.html'],
+             ['Team', 'pages/team.html'],
+             ['Contact', 'pages/contact.html']]
 BOOTSTRAP_THEME = "spacelab"
 PYGMENTS_STYLE = 'solarizedlight'
-SITELOGO = "images/logo.png"
-SITELOGO_SIZE = "8%"
-HIDE_SITENAME = False
+SITELOGO = "images/logo-header.png"
+SITELOGO_SIZE = "60%"
+HIDE_SITENAME = True
 #DISPLAY_BREADCRUMBS = True
 #DISPLAY_CATEGORY_IN_BREADCRUMBS = True
 BOOTSTRAP_NAVBAR_INVERSE = False
@@ -43,7 +47,7 @@ EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 CUSTOM_CSS = 'static/custom.css'
 
 # Template settings
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 

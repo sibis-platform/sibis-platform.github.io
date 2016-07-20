@@ -13,8 +13,13 @@ TIMEZONE = "America/Vancouver"
 
 DEFAULT_LANG = "en"
 
+conda_env = os.environ.get('CONDA_ENV_PATH', "")
+
 # Theme
-THEME = "/Users/nicholsn/Repos/pelican-themes/pelican-bootstrap3"
+if conda_env == "":
+  THEME = "/Users/nicholsn/Repos/pelican-themes/pelican-bootstrap3"
+else
+  THEME = conda_env + "/lib/python2.7/site-packages/pelican-themes/pelican-bootstrap3"
 
 # Theme specific config
 MENUITEMS = [['Scalable Informatics for Biomedical Imaging Studies', 'index.html'],
@@ -64,7 +69,11 @@ DEFAULT_PAGINATION = 10
 RECENT_POST_COUNT = 5
 
 # Plugins
-PLUGIN_PATHS = ["/Users/nicholsn/Repos/pelican-plugins"]
+if conda_env == "":
+  PLUGIN_PATHS = ["/Users/nicholsn/Repos/pelican-plugins"]
+else
+  PLUGIN_PATHS = [conda_env + "/lib/python2.7/site-packages/pelican-plugins"]
+
 PLUGINS = ['related_posts', 'tipue_search', 'liquid_tags.img',
            'liquid_tags.video', 'liquid_tags.youtube',
            'liquid_tags.vimeo', 'liquid_tags.include_code',

@@ -18,7 +18,7 @@ conda_env = os.environ.get('CONDA_ENV_PATH', "")
 # Theme
 if conda_env == "":
   THEME = "/Users/nicholsn/Repos/pelican-themes/pelican-bootstrap3"
-else
+else:
   THEME = conda_env + "/lib/python2.7/site-packages/pelican-themes/pelican-bootstrap3"
 
 # Theme specific config
@@ -71,7 +71,7 @@ RECENT_POST_COUNT = 5
 # Plugins
 if conda_env == "":
   PLUGIN_PATHS = ["/Users/nicholsn/Repos/pelican-plugins"]
-else
+else:
   PLUGIN_PATHS = [conda_env + "/lib/python2.7/site-packages/pelican-plugins"]
 
 PLUGINS = ['related_posts', 'tipue_search', 'liquid_tags.img',

@@ -68,8 +68,8 @@ Summary: Team members of the SIBIS research group
 <div>
         <img src='../images/team/edith.png' hspace='20'>
                 <a href='https://med.stanford.edu/profiles/edith-sullivan/'>
-                        <strong>Edith Vioni Sullivam M.D.</strong>
+                        <strong>Edith Vioni Sullivam Ph.D.,</strong>
                 </a>
-		<b>Ph.D. Professor</b>
+		<b>Professor</b>
 </div>
 

@@ -22,10 +22,10 @@ else:
   THEME = conda_env + "/lib/python2.7/site-packages/pelican-themes/pelican-bootstrap3"
 
 # Theme specific config
-MENUITEMS = [['Scalable Informatics for Biomedical Imaging Studies', 'index.html'],
-             ['About', 'pages/about.html'],
-             ['Team', 'pages/team.html'],
-             ['Contact', 'pages/contact.html']]
+MENUITEMS = [['Scalable Informatics for Biomedical Imaging Studies', '/index.html'],
+             ['About', '/pages/about.html'],
+             ['Team', '/pages/team.html'],
+             ['Contact', '/pages/contact.html']]
 BOOTSTRAP_THEME = "spacelab"
 PYGMENTS_STYLE = 'solarizedlight'
 SITELOGO = "images/logo-header.png"

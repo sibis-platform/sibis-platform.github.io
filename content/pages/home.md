@@ -10,11 +10,11 @@ Author: Nolan Nichols <http://orcid.org/0000-0003-1099-3328>
 Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of linked and interoperable technologies for the management, analysis, and sharing of biomedical imaging data. The platform contributes new technologies that advance the understanding of normal biological structure and function and disease processes.
 
 # Projects
-**[National Consortium on Alcohol and Neuro-Development in Adolesence][ncanda]**
+**[National Consortium on Alcohol and Neuro-Development in Adolescence][ncanda]**
 
 - **Abstract:** The purpose of the National Consortium on Alcohol and Neurodevelopment in Adolescence (NCANDA) is to determine the effects of problematic alcohol use on the developing adolescent brain and examine brain characteristics that predict alcohol use disorder. At five sites, the consortium will collect a core battery, including structural and functional brain scans and cognitive testing, and conduct specialty projects on psychological regulation, sleep and alcohol discontinuation. The examination of alcohol consequences will focus on structural and functional maturation of brain areas that actively develop during adolescence, are key to psychological regulation and reward response, and may be vulnerable to toxic alcohol effects.
 
-- **Collaborators:** Sandy Brown and Susan Tapert, UC San Diego; Michael DeBellis, Duke; Duncan Clark, University of Pittsburg; Bonnie Nagel, Oregon Health and Science University; Ian Colrain and Fiona Baker, SRI International.
+- **Collaborators:** Sandra Brown and Susan Tapert, UC San Diego; Michael DeBellis, Duke; Duncan Clark, University of Pittsburg; Bonnie Nagel, Oregon Health and Science University; Ian Colrain and Fiona Baker, SRI International.
 
 - **Funding:** NIH AA021697 & AA021697-04S1
 

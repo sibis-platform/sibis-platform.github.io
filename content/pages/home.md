@@ -18,6 +18,8 @@ Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of lin
 
 - **Funding:** NIH AA021697 & AA021697-04S1
 
+[Access to publicly available NCANDA Data][ncanda_data_access]
+
 **[Creating Maps of 4D Brain Images to Unravel Dementia Heterogeneity of Aging HIV Population][hiv]**
 
 - **Abstract:** The goal of this project is to identify phenotypes for HIV+ and HIV-Associated Neurocognitive Disorder (HAND) via a novel study design, which first groups subjects according to anatomical similarity and then correlates with presumed clinical phenotypes.
@@ -86,6 +88,7 @@ Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of lin
 
 
 [ncanda]: /pages/ncanda.html
+[ncanda_data_access]: /pages/ncanda_data_access.html
 [hiv]: https://projectreporter.nih.gov/project_info_description.cfm?aid=8934163&icde=29856881
 [heart]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9043186&icde=29856855
 [cns]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9042196&icde=29447440

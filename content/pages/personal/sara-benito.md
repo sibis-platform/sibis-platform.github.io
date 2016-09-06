@@ -3,23 +3,23 @@ Slug: sara-benito
 Save_as: pages/personal/sara-benito.html
 Summary: Personal site of Sara Benito
 
-## Sara Benito Arce
-<strong>Biomedical Software Engineer</strong>
+### Sara Benito Arce
+
+####Biomedical Software Engineer
+
 ---
 <div>
-    <img src='../images/team/sara-personal.png' >
-    <p>
-        Sara recently joined SRI, she has a MSc in Physics by the Universidad de Valladolid, Spain.
-        Previosuly she worked as Python Developer at Stanford University, Psychology Department and as
-        Web Developer at the Institut D'Astrophysique Spatiale at the CNRS, France.
+    <img src='../../images/team/sara-personal.png' style="float:left" hspace='20'/>
+	Sara has recently joined SRI, she holds a MSc in Physics by the Universidad de Valladolid, Spain.
+    Previosuly she worked as Python Developer at **Stanford University, Psychology Department** and as
+    Web Developer at the  **Institut d'Astrophysique Spatiale, CNRS** in France.
+	She will be applying her experience in neuroscience and skills leveraging the acces to data at the different projects that constitute the SIBIS platform.
 
-    </p>
-    <p>
-
-    </p>
 </div>
 ---
-### Useful Links
-https://github.com/sbenito
+#### Useful Links
+
+This is my personal [github](https://github.com/sbenito)
+
 ---
 

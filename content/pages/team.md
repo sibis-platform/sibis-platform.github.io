@@ -7,7 +7,7 @@ Summary: Team members of the SIBIS research group
 <div>
     <img src='../images/team/sara.png' hspace='20'>
     <a href='/pages/personal/sara-benito'>
-        <strong>Sara Benito Arce,</strong>
+        <strong>Sara Benito Arce M.Sc,</strong>
     </a>
     <b>Biomedical Software Engineer</b>
 </div>

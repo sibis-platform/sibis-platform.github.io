@@ -22,6 +22,12 @@ All data collected using electronic data capture (e.g. [WebCNP], [LimeSurvey], [
 
 * K.M. Pohl: [Harmonizing DTI measurements across scanners to examine the development of white matter microstructure in 803 adolescents of the NCANDA study][paper3] NeuroImage, Volume 130, 15 April 2016, Pages 194–213
 
+</br>
+
+#### Download SIBIS: 
+
+ *   The individual software packages of SIBIS can be downloaded via [github] 
+
 [WebCNP]: https://webcnp.med.upenn.edu/
 [LimeSurvey]: https://www.limesurvey.org
 [Blaise]: http://www.blaise.com
@@ -29,3 +35,4 @@ All data collected using electronic data capture (e.g. [WebCNP], [LimeSurvey], [
 [paper1]: http://link.springer.com/article/10.1007/s11065-015-9293-x
 [paper2]: http://jamia.oxfordjournals.org/content/21/4/758
 [paper3]: http://www.sciencedirect.com/science/article/pii/S1053811916000914
+[github]: https://github.com/sibis-platform

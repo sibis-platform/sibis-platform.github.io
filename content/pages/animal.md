@@ -20,7 +20,7 @@ The project performs a series of translational studies using in vivo magnetic re
 
 ####Collaborators
 
-* Edith V. Sullivan, SRI International.
+* Edith V. Sullivan, Stanford University School of Medicine.
 * Natalie M. Zahr, SRI International.
 
 </br>

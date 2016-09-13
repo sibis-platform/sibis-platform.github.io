@@ -15,16 +15,16 @@ Author:
 ####Principal Investigators
 
  * Adolf Pfefferbaum, SRI International.
- * Edith V. Sullivan, SRI International.
+ * Edith V. Sullivan, Stanford University School of Medicine.
 
 </br>
 
 ####Collaborators
 
  * Ian Colrain, SRI International.
- * Rosemary Fama, SRI International.
- * Eva Mϋller-Oehring, SRI International.
- * Tilman Schulte, SRI International.
+ * Rosemary Fama, SRI International & Stanford University School of Medicine.
+ * Eva Mϋller-Oehring, SRI International & Stanford University School of Medicine.
+ * Tilman Schulte, SRI International & Palo Alto University.
 
 </br>
 

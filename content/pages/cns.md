@@ -21,9 +21,9 @@ Author:
 
 ####Collaborators
 
-* Edith V. Sullivan, Stanford University School of Medicine.
 * Anna Lembke, SRI International.
 * Michael Ostacher, SRI International.
+* Edith V. Sullivan, Stanford University School of Medicine.
 
 </br>
 

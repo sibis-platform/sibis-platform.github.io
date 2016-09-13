@@ -18,7 +18,7 @@ All data collected using electronic data capture (e.g. [WebCNP], [LimeSurvey], [
 
 * B.N. Nichols and K.M. Pohl: [Neuroinformatics Software Applications Supporting Electronic Data Capture][paper1], Management, and Sharing for the Neuroimaging Community , Neuropsychology Review, Volume 25, Issue 3, pp 356–368
 
-* Torsten Rohlfing, Kevin Cummins, Trevor Henthorn, Weiwei Chu, B Nolan Nichols: [N-CANDA data integration: anatomy of an asynchronous infrastructure for multi-site, multi-instrument longitudinal data capture][paper2], Journal of the American Medical Informatics AssociationVolume 21, Issue 4Pp. 758 - 762.
+* T. Rohlfing, K. Cummins, T. Henthorn, W. Chu, B.N. Nichols: [N-CANDA data integration: anatomy of an asynchronous infrastructure for multi-site, multi-instrument longitudinal data capture][paper2], Journal of the American Medical Informatics AssociationVolume 21, Issue 4Pp. 758 - 762.
 
 * K.M. Pohl: [Harmonizing DTI measurements across scanners to examine the development of white matter microstructure in 803 adolescents of the NCANDA study][paper3] NeuroImage, Volume 130, 15 April 2016, Pages 194–213
 

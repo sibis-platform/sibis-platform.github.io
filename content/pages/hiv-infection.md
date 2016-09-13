@@ -17,9 +17,9 @@ The purpose of this project is to elucidate the interaction of HIV infection and
 
 #### Collaborators
 
-* Edith V. Sullivan, Stanford University School of Medicine.
 * Rosemary Fama, SRI International & Stanford University School of Medicine.
 * Eva Mϋller-Oehring, SRI International & Stanford University School of Medicine.
+* Edith V. Sullivan, Stanford University School of Medicine.
 
 #### Funding
 

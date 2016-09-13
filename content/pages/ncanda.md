@@ -16,13 +16,22 @@ Author:
 
 </br>
 
+#### Principal Investigators
+
+ * Adolf Pfefferbaum, SRI International.
+ * Kilian M. Pohl, SRI International.
+
+</br>
+
 #### Collaborators
 
- * Sandra Brown and Susan Tapert, UC San Diego.
- * Michael DeBellis, Duke University.
+ * Fiona Baker, SRI International.
+ * Sandra Brown, UC San Diego.
  * Duncan Clark, University of Pittsburg.
+ * Ian Colrain, SRI International.
+ * Michael DeBellis, Duke University.
  * Bonnie Nagel, Oregon Health and Science University.
- * Ian Colrain and Fiona Baker, SRI International.
+ * Susan Tapert, UC San Diego.
 
 </br>
 

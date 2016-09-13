@@ -16,9 +16,17 @@ The goal of this project is to identify phenotypes for HIV+ and HIV-Associated N
 
 </br>
 
+#### Principal Investigator
+
+ * Kilian M. Pohl, SRI International.
+
+
+</br>
+
 #### Collaborators
 
- * Victor Valcour, University of California San Francisco
+ * Harold Javitz, SRI International.
+ * Victor Valcour, University of California San Francisco.
 
 </br>
 

@@ -19,16 +19,16 @@ The overarching aims of this international collaboration are
 ####Principal Investigators:
 
 * Adolf Pfefferbaum, SRI International.
-* Edith V. Sullivan, SRI International.
+* Edith V. Sullivan, Stanford University School of Medicine.
 
 </br>
 
 ####Collaborators
 
- * Francis Eustache, Université de Caen Normandie, France.
  * Hélène Beaunieux, Université de Caen Normandie, France.
- * Anne Lise Pitel, Université de Caen Normandie, France.
+ * Francis Eustache, Université de Caen Normandie, France.
  * Young-Chul Jung, Yonsei University College of Medicine, South Korea.
+ * Anne Lise Pitel, Université de Caen Normandie, France.
 
 </br>
 

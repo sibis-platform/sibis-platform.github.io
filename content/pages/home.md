@@ -8,31 +8,29 @@ Author: Nolan Nichols <http://orcid.org/0000-0003-1099-3328>
 
 # Overview
 
-Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of linked and interoperable technologies for the management, analysis, and sharing of biomedical imaging data. 
-
-The platform contributes new technologies that advance the understanding of normal biological structure and function and disease processes.
+Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of linked and interoperable technologies for the management, analysis, and sharing of biomedical imaging data. The platform contributes new technologies that advance the understanding of normal biological structure and function and disease processes.
 
 # Projects
 
 - [National Consortium on Alcohol and Neuro-Development in Adolescence][ncanda]
 
-- [Creating Maps of 4D Brain Images to Unravel Dementia Heterogeneity of Aging HIV Population][hiv-aging]
+- [Creating Maps of 4D Brain Images to Unravel Dementia Heterogeneity of Aging HIV Population][cnihr]
 
 - [Innovative MRI-based Characterization of Cardiac Dyssynchrony][heart]
 
-- [CNS deficits: interaction of age and alcoholism][cns]
+- [CNS Deficits: Interaction of Age and Alcoholism][cns]
 
-- [Neuroimaging of Connectivity in alcoholism][conn]
+- [Neuroimaging of Connectivity in Alcoholism][conn]
 
-- [Neuroimaging of alcohol-induced Neuroadaptation: Translation from animals to humans][animal]
+- [Neuroimaging of Alcohol-Induced Neuroadaptation: Translation from Animals to Humans][animal]
 
-- [Tracking HIV infection and alcohol abuse CNS Comorbidity with Neuroimaging][hiv-infection]
+- [Tracking HIV Infection and Alcohol Abuse CNS Comorbidity with Neuroimaging][hiv-infection]
 
-- [International Research collaboration on Neuroimaging studies of alcoholism][inter]
+- [International Research Collaboration on Neuroimaging Studies of Alcoholism][inter]
 
 
 [ncanda]: ../pages/ncanda.html
-[hiv-aging]: ../pages/hiv-aging.html
+[cnihr]: ../pages/cnihr.html
 [heart]: ../pages/cardiac-dyssynchrony.html
 [cns]: ../pages/cns.html
 [conn]: ../pages/conn-alcohol.html

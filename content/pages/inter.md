@@ -1,19 +1,27 @@
-Title: International Research Collaboration on Neuroimaging studies of alcoholism
-Slug: international
+Title: 
+Slug: inter
 Status: hidden
 Summary: International Research Collaboration
 Author:
 
-####Overview
+<h1 align="middle">International Research Collaboration on Neuroimaging Studies of Alcoholism</h1>
 
-The overarching aims of this international collaboration are 1) to use neuroimaging, neuropsychology, and biomarkers of nutrition in alcoholics – with and without Wernicke-Korsakoff Syndrome – and controls to compare and contrast the effects of alcohol on brain structure and function across nations, and 2) to identify markers of nutritional status, genetic variants, and alcohol consumption patterns that modulate the principal dependent measures and explain heterogeneity in presentation and recovery of alcoholism.
+---
 
-[Link to NIH project information][inter]
+The overarching aims of this international collaboration are 
+
+1) to use neuroimaging, neuropsychology, and biomarkers of nutrition in alcoholics – with and without Wernicke-Korsakoff Syndrome – and controls to compare and contrast the effects of alcohol on brain structure and function across nations, and 
+
+2) to identify markers of nutritional status, genetic variants, and alcohol consumption patterns that modulate the principal dependent measures and explain heterogeneity in presentation and recovery of alcoholism.
+
+</br>
 
 ####Principal Investigators:
 
 * Adolf Pfefferbaum, SRI International.
 * Edith V. Sullivan, SRI International.
+
+</br>
 
 ####Collaborators
 
@@ -22,8 +30,10 @@ The overarching aims of this international collaboration are 1) to use neuroimag
  * Anne Lise Pitel, Université de Caen Normandie, France.
  * Young-Chul Jung, Yonsei University College of Medicine, South Korea.
 
+</br>
+
 ####Funding
 
-NIH AA017923
+ * [NIH AA017923][inter]
 
-[hiv-infection]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9042901&icde=29447440
+[inter]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9042901&icde=29447440

@@ -1,4 +1,4 @@
-Title: 
+Title:
 Slug: cnihr
 Status: hidden
 Summary: Description and Content HIV Aging
@@ -10,18 +10,18 @@ Author:
 
 <h1 align="middle">Creating Maps of 4D Brain Images to Unravel Dementia Heterogeneity of Aging HIV Population</h1>
 
-</br>
+<br />
 
 The goal of this project is to identify phenotypes for HIV+ and HIV-Associated Neurocognitive Disorder (HAND) via a novel study design, which first groups subjects according to anatomical similarity and then correlates with presumed clinical phenotypes.
 
-</br>
+<br />
 
 #### Principal Investigator
 
- * Kilian M. Pohl, SRI International.
+ * Kilian M. Pohl, SRI International
 
 
-</br>
+<br />
 
 #### Collaborators
 

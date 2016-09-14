@@ -1,4 +1,4 @@
-Title: 
+Title:
 Slug: animal
 Status: hidden
 Summary: Alcohol Induced Neuroadaptation
@@ -8,22 +8,22 @@ Author:
 
 ---
 
-The project performs a series of translational studies using in vivo magnetic resonance (MR) neuroimaging and spectroscopy applied across rats and humans and monkeys by a collaboration between INIA-West and INIA-Stress. The goal is to identify and explicate changes in brain morphology, neurocircuitry, and metabolism during the development and maintenance of alcohol dependence. Exploratory studies will include correlation of in vivo MR data with postmortem histological analyses in collaboration with other INIA-West sites. 
+The project performs a series of translational studies using in vivo magnetic resonance (MR) neuroimaging and spectroscopy applied across rats and humans and monkeys by a collaboration between INIA-West and INIA-Stress. The goal is to identify and explicate changes in brain morphology, neurocircuitry, and metabolism during the development and maintenance of alcohol dependence. Exploratory studies will include correlation of in vivo MR data with postmortem histological analyses in collaboration with other INIA-West sites.
 
-</br>
+<br />
 
 ####Principal Investigators:  
 
-* Adolf Pfefferbaum, SRI International.
+* Adolf Pfefferbaum, SRI International
 
-</br>
+<br />
 
 ####Collaborators
 
-* Edith V. Sullivan, Stanford University School of Medicine.
-* Natalie M. Zahr, SRI International.
+* Edith V. Sullivan, Stanford University School of Medicine
+* Natalie M. Zahr, SRI International
 
-</br>
+<br />
 
 ####Funding
 

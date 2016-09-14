@@ -1,4 +1,4 @@
-Title: 
+Title:
 Slug: cardiac-dyssynchrony
 Status: hidden
 Summary: Description and Content Cardiac Dyssyncrony
@@ -16,15 +16,15 @@ Author:
 
 </br>
 
- #### Principal Investigators
+#### Principal Investigators
 
- * Leon Axel, New York University.
- * Dimitris N. Metaxas, Rutgers University.
+ * Leon Axel, New York University
+ * Dimitris N. Metaxas, Rutgers University
  * Kilian M. Pohl, SRI International
 
 </br>
 
- ####Funding
+#### Funding
 
  * [NIH R01HL127661][heart]
 

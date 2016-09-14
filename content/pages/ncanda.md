@@ -18,26 +18,27 @@ Author:
 
 #### Principal Investigators
 
- * Adolf Pfefferbaum, SRI International.
- * Kilian M. Pohl, SRI International.
+ * Adolf Pfefferbaum, SRI International
+ * Kilian M. Pohl, SRI International
 
 </br>
 
 #### Collaborators
 
- * Fiona Baker, SRI International.
- * Sandra Brown, UC San Diego.
- * Duncan Clark, University of Pittsburg.
- * Ian Colrain, SRI International.
- * Michael DeBellis, Duke University.
- * Bonnie Nagel, Oregon Health and Science University.
- * Susan Tapert, UC San Diego.
+ * Fiona Baker, SRI International
+ * Sandra Brown, UC San Diego
+ * Duncan Clark, University of Pittsburg
+ * Ian Colrain, SRI International
+ * Michael DeBellis, Duke University
+ * Bonnie Nagel, Oregon Health and Science University
+ * Susan Tapert, UC San Diego
 
 </br>
 
 #### Funding
 
- * [NIH AA021697 & AA021697-04S1][funding]
+ * [NIH AA021697][funNCANDA]
+ * [NIH AA021697-04S1][funSup]
 
 </br>
 
@@ -55,4 +56,5 @@ Author:
  
 
 [1]: /images/form/NCANDA-Data-Distribution-Agreement-V1.pdf
-[funding]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9069368&icde=31063619&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC
+[funNCANDA]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9069368&icde=31063619&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC
+[funSup]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9056831&icde=31074859&ddparam=&ddvalue=&ddsub=&cr=3&csb=default&cs=ASC

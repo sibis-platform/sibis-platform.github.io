@@ -1,6 +1,7 @@
 Title:
 Slug: animal
 Status: hidden
+Save_as: pages/projects/animal.html
 Summary: Alcohol Induced Neuroadaptation
 Author:
 

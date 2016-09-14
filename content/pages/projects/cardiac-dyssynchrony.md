@@ -1,11 +1,12 @@
 Title:
 Slug: cardiac-dyssynchrony
 Status: hidden
+Save_as: pages/projects/cardiac-dyssynchrony.html
 Summary: Description and Content Cardiac Dyssyncrony
 Author:
 
  <div>
-    <center><img src="../images/logo/heart-icon.jpg" alt="heart" align="middle"></center>
+    <center><img src="../../images/logo/heart-icon.jpg" alt="heart" align="middle"></center>
 </div>
 
 <h1 align="middle">Innovative MRI-based Characterization of Cardiac Dyssynchrony</h1>

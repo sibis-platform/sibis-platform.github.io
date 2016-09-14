@@ -4,7 +4,7 @@ Slug: home
 Save_as: index.html
 Author: Nolan Nichols <http://orcid.org/0000-0003-1099-3328>
 
-<center><img src="images/logo.png" alt="SIBIS" align="middle" style="width:40%"></center>
+<center><img src="images/logo/SIBIS-logo.png" alt="SIBIS" align="middle" style="width:40%"></center>
 
 # Overview
 
@@ -29,11 +29,11 @@ Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of lin
 - [International Research Collaboration on Neuroimaging Studies of Alcoholism][inter]
 
 
-[ncanda]: ../pages/ncanda.html
-[cnihr]: ../pages/cnihr.html
-[heart]: ../pages/cardiac-dyssynchrony.html
-[cns]: ../pages/cns.html
-[conn]: ../pages/conn-alcohol.html
-[animal]: ../pages/animal.html
-[hiv-infection]: ../pages/hiv-infection.html
-[inter]: ../pages/inter.html
+[ncanda]: ../pages/projects/ncanda.html
+[cnihr]: ../pages/projects/cnihr.html
+[heart]: ../pages/projects/cardiac-dyssynchrony.html
+[cns]: ../pages/projects/cns.html
+[conn]: ../pages/projects/conn-alcohol.html
+[animal]: ../pages/projects/animal.html
+[hiv-infection]: ../pages/projects/hiv-infection.html
+[inter]: ../pages/projects/inter.html

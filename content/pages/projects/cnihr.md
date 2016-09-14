@@ -1,11 +1,12 @@
 Title:
 Slug: cnihr
 Status: hidden
+Save_as: pages/projects/cnihr.html
 Summary: Description and Content HIV Aging
 Author:
 
  <div>
-    <center><img src="../images/logo/CNIHR-Project-Icon.jpg" alt="CNIHR" align="middle"></center>
+    <center><img src="../../images/logo/CNIHR-Project-Icon.jpg" alt="CNIHR" align="middle"></center>
 </div>
 
 <h1 align="middle">Creating Maps of 4D Brain Images to Unravel Dementia Heterogeneity of Aging HIV Population</h1>

@@ -1,6 +1,7 @@
 Title:
 Slug: inter
 Status: hidden
+Save_as: pages/projects/inter.html
 Summary: International Research Collaboration
 Author:
 

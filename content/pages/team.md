@@ -80,7 +80,7 @@ Summary: Team members of the SIBIS research group
 ---
 
 <div>
-    <img src='../images/team/edith.png' hspace='20'>
+    <img src='../images/team/edith-sept.jpg' hspace='20'>
     <a href='https://med.stanford.edu/profiles/edith-sullivan/'>
         <strong>Edith Vioni Sullivan Ph.D.,</strong>
     </a>

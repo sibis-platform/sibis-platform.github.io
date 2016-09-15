@@ -14,7 +14,10 @@ Summary: Team members of the SIBIS research group
 ---
 <div>
     <img src='../images/team/weiwei.png' hspace='20'>
-    <strong>Weiwei Chu M.Sc., Database Manager</strong>
+    <a href='../pages/personal/weiwei-chu.html'>
+        <strong>Weiwei Chu M.Sc.,</strong>
+    </a>
+    <b>Database Manager</b>
 </div>
 
 ---

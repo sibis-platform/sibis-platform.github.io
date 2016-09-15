@@ -15,7 +15,7 @@ The purpose of this project is to elucidate the interaction of HIV infection and
 
 <br />
 
-#### Principal Investigators:
+#### Principal Investigators
 
 * Adolf Pfefferbaum, SRI International
 * Natalie M. Zahr, SRI International

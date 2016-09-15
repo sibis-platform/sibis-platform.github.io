@@ -5,9 +5,13 @@ Save_as: pages/projects/inter.html
 Summary: International Research Collaboration
 Author:
 
+<div>
+    <center><img src="../../images/logo/international.jpg" alt="animal-hr" align="middle"></center>
+</div>
+
 <h1 align="middle">International Research Collaboration on Neuroimaging Studies of Alcoholism</h1>
 
----
+</br>
 
 The overarching aims of this international collaboration are
 

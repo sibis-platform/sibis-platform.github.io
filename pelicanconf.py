@@ -81,7 +81,7 @@ PLUGINS = ['related_posts', 'tipue_search', 'liquid_tags.img',
 
 # Static paths and cname mapping
 PATH = "content"
-STATIC_PATHS = ['images', 'extra/custom.css']
+STATIC_PATHS = ['images', 'extra/custom.css', 'form']
 EXTRA_PATH_METADATA = {
                        'extra/custom.css': {'path': 'static/custom.css'}
                        }

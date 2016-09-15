@@ -17,7 +17,7 @@ The overarching aims of this international collaboration are
 
 </br>
 
-####Principal Investigators:
+####Principal Investigators
 
 * Adolf Pfefferbaum, SRI International
 * Edith V. Sullivan, Stanford University School of Medicine

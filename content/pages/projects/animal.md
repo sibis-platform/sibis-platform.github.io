@@ -13,7 +13,7 @@ The project performs a series of translational studies using in vivo magnetic re
 
 <br />
 
-####Principal Investigators:  
+####Principal Investigators
 
 * Adolf Pfefferbaum, SRI International
 

@@ -56,6 +56,6 @@ Author:
  If you have any questions please contact <a href="mailto:ncanda-support@sri.com?subject=Request for Ncanda Data">ncanda-support@sri.com </a>.
 
 
-[1]: /form/NCANDA-Data-Distribution-Agreement-V1.pdf
+[1]: ../../form/NCANDA-Data-Distribution-Agreement-V1.pdf
 [funNCANDA]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9069368&icde=31063619&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC
 [funSup]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9056831&icde=31074859&ddparam=&ddvalue=&ddsub=&cr=3&csb=default&cs=ASC

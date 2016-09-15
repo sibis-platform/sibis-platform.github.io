@@ -5,7 +5,7 @@ Save_as: pages/projects/conn-alcohol.html
 Summary: Interaction of age and alcoholism
 Author:
 
-<center><img src="../../images/logo/animal-hr.jpg" alt="animal-hr" align="middle"></center>
+<center><img src="../../images/logo/conn-alcohol.jpg" alt="conn-alcohol" align="middle"></center>
 
 <h1 align="middle">Neuroimaging of Connectivity in Alcoholism</h1>
 

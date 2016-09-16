@@ -18,13 +18,13 @@ The project performs a series of translational studies using in vivo magnetic re
 ####Principal Investigators
 
 * Adolf Pfefferbaum, SRI International
+* Natalie M. Zahr, SRI International
 
 <br />
 
-####Collaborators
+####Collaborator
 
 * Edith V. Sullivan, Stanford University School of Medicine
-* Natalie M. Zahr, SRI International
 
 <br />
 

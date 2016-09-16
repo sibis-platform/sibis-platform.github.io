@@ -5,7 +5,7 @@ Save_as: pages/projects/cns.html
 Summary: Interaction of age and alcoholism
 Author:
 
-<center><img src="../../images/papers/NIMG-figure1-small.jpg" alt="NIMG" align="middle"></center>
+<center><img src="../../images/logo/cns-deficits.jpg" alt="cns-deficits" align="middle"></center>
 
 <h1 align="middle">CNS Deficits: Interaction of Age and Alcoholism</h1>
 

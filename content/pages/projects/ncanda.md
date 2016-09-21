@@ -43,18 +43,6 @@ Author:
 
 <br />
 
-#### Access NCANDA Data
-
- To gain access to publicly available data please complete following steps:
-
- * Create a user name on <a href="https://www.synapse.org">Synapse</a>
- * Fill out the following [form][1] and send it with your synapse user name to <a href="mailto:anoronha@willco.niaaa.nih.gov?subject=Request for Ncanda Data">Antonio Noronha (NIH/NIAAA)</a>
- * NIH will contact applicant about acceptance/rejectance of application.
-
- Once accepted, the data can be accessed via the <a href="http://dx.doi.org/10.7303/syn3565171">NCANDA Repository at Synapse</a>.
-
- If you have any questions please contact <a href="mailto:ncanda-support@sri.com?subject=Request for Ncanda Data">ncanda-support@sri.com </a>.
-
 
 [1]: ../../form/NCANDA-Data-Distribution-Agreement-V1.pdf
 [funNCANDA]: https://projectreporter.nih.gov/project_info_description.cfm?aid=9069368&icde=31063619&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC

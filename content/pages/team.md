@@ -21,6 +21,16 @@ Summary: Team members of the SIBIS research group
 </div>
 
 ---
+
+<div>
+    <img src='../images/team/michael.png' hspace='20'>
+    <a href='../pages/personal/michael-hasak.html'>
+        <strong>Michael Hasak,</strong>
+    </a>
+    <b>Senior Software Engineer </b>
+</div>
+
+---
 <div>
     <img src='../images/team/djk.png' hspace='20'>
     <a href='http://web.stanford.edu/~djkwon/'>
@@ -28,16 +38,6 @@ Summary: Team members of the SIBIS research group
     </a>
     <b> Research Scientist</b>
 </div>
----
-
-<div>
-    <img src='../images/team/nolan-sibis.png' hspace='20'>
-    <a href='http://www.nolan-nichols.com/'>
-        <strong>Nolan Nichols Ph.D.,</strong>
-    </a>
-    <b>Postdoctoral Fellow</b>
-</div>
-
 ---
 
 <div>

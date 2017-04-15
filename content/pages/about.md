@@ -20,7 +20,7 @@ All data collected using electronic data capture (e.g. [WebCNP], [LimeSurvey], [
 
 * T. Rohlfing, K. Cummins, T. Henthorn, W. Chu, B.N. Nichols: [N-CANDA data integration: anatomy of an asynchronous infrastructure for multi-site, multi-instrument longitudinal data capture][paper2], Journal of the American Medical Informatics AssociationVolume 21, Issue 4Pp. 758 - 762.
 
-* K.M. Pohl: [Harmonizing DTI measurements across scanners to examine the development of white matter microstructure in 803 adolescents of the NCANDA study][paper3] NeuroImage, Volume 130, 15 April 2016, Pages 194–213
+* K.M. Pohl, Edith V. Sullivan, Torsten Rohlfing, Weiwei Chu, Dongjin Kwon, B. Nolan Nichols, Yong Zhang, Sandra A. Brown, Susan F. Tapert, Kevin Cummins, Wesley K. Thompson, Ty Brumback, Ian M. Colrain, Fiona C. Baker, Devin Prouty, Michael D. De Bellis, James T. Voyvodic, Duncan B. Clark, Claudiu Schirda, Bonnie J. Nagel, Adolf Pfefferbaum: [Harmonizing DTI measurements across scanners to examine the development of white matter microstructure in 803 adolescents of the NCANDA study][paper3] NeuroImage, Volume 130, 15 April 2016, Pages 194–213
 
 </br>
 

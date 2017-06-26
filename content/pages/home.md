@@ -28,7 +28,6 @@ Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of lin
 
 - [International Research Collaboration on Neuroimaging Studies of Alcoholism][inter]
 
-
 [ncanda]: ../pages/projects/ncanda.html
 [cnihr]: ../pages/projects/cnihr.html
 [heart]: ../pages/projects/cardiac-dyssynchrony.html
@@ -37,3 +36,4 @@ Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of lin
 [animal]: ../pages/projects/animal.html
 [hiv-infection]: ../pages/projects/hiv-infection.html
 [inter]: ../pages/projects/inter.html
+

@@ -21,4 +21,3 @@ Summary: Personal site of Sara Benito
 
 This is my personal [github](https://github.com/sbenito)
 
-

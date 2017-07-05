@@ -88,7 +88,7 @@ Summary: Team members of the SIBIS research group
 ---
 <div>
     <img src='../images/team/qingyu.png' hspace='20'>
-    <a href='http://cs.unc.edu/~zenyo/'>
+    <a href='http://stanford.edu/~qingyuz/'>
         <strong>Qingyu Zhao Ph.D.,</strong>
     </a>
     <b>Postdoctoral Fellow</b>

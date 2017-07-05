@@ -5,16 +5,37 @@ Summary: Team members of the SIBIS research group
 #Team
 ---
 <div>
+    <img src='../images/team/ehsan-cropped.png' hspace='20'>
+    <a href='http://stanford.edu/~eadeli/'>
+        <strong>Ehsan Adeli Ph.D.,</strong>
+    </a>
+    <b>Postdoctoral Fellow</b>
+</div>
+---
+<div>
     <img src='../images/team/sara.png' hspace='20'>
-    <a href='/pages/personal/sara-benito'>
-        <strong>Sara Benito Arce M.Sc,</strong>
+    <a href='../pages/personal/sara-benito.html'>
+        <strong>Sara Benito Arce M.Sc.,</strong>
     </a>
     <b>Biomedical Software Engineer</b>
 </div>
 ---
 <div>
     <img src='../images/team/weiwei.png' hspace='20'>
-    <strong>Weiwei Chu M.Sc., Database Manager</strong>
+    <a href='../pages/personal/weiwei-chu.html'>
+        <strong>Weiwei Chu M.Sc.,</strong>
+    </a>
+    <b>Database Manager</b>
+</div>
+
+---
+
+<div>
+    <img src='../images/team/michael.png' hspace='20'>
+    <a href='../pages/personal/michael-hasak.html'>
+        <strong>Michael Hasak,</strong>
+    </a>
+    <b>Senior Software Engineer </b>
 </div>
 
 ---
@@ -25,26 +46,6 @@ Summary: Team members of the SIBIS research group
     </a>
     <b> Research Scientist</b>
 </div>
----
-
-<div>
-    <img src='../images/team/nolan-sibis.png' hspace='20'>
-    <a href='http://www.nolan-nichols.com/'>
-        <strong>Nolan Nichols Ph.D.,</strong>
-    </a>
-    <b>Postdoctoral Fellow</b>
-</div>
-
----
-
-<div>
-    <img src='../images/team/shpark.png' hspace='20'>
-    <a href='https://web.stanford.edu/~shpark1/'>
-        <strong>San Hyun Park Ph.D.,</strong>
-    </a>
-    <b>Postdoctoral Fellow</b>
-</div>
-
 ---
 <div>
     <img src='../images/team/eric.png' hspace='20'>
@@ -77,11 +78,20 @@ Summary: Team members of the SIBIS research group
 ---
 
 <div>
-    <img src='../images/team/edith.png' hspace='20'>
+    <img src='../images/team/edith-sept.jpg' hspace='20'>
     <a href='https://med.stanford.edu/profiles/edith-sullivan/'>
         <strong>Edith Vioni Sullivan Ph.D.,</strong>
     </a>
     <b>Professor</b>
+</div>
+
+---
+<div>
+    <img src='../images/team/qingyu.png' hspace='20'>
+    <a href='http://cs.unc.edu/~zenyo/'>
+        <strong>Qingyu Zhao Ph.D.,</strong>
+    </a>
+    <b>Postdoctoral Fellow</b>
 </div>
 
 ---

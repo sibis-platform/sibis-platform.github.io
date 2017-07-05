@@ -28,13 +28,13 @@ MENUITEMS = [['Scalable Informatics for Biomedical Imaging Studies', '/index.htm
              ['Contact', '/pages/contact.html']]
 BOOTSTRAP_THEME = "spacelab"
 PYGMENTS_STYLE = 'solarizedlight'
-SITELOGO = "images/logo-header.png"
+SITELOGO = "images/logo/SIBIS-logo-header.png"
 SITELOGO_SIZE = "60%"
 HIDE_SITENAME = True
 #DISPLAY_BREADCRUMBS = True
 #DISPLAY_CATEGORY_IN_BREADCRUMBS = True
 BOOTSTRAP_NAVBAR_INVERSE = False
-FAVICON = "images/favicon.png"
+FAVICON = "images/logo/favicon.png"
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 ABOUT_ME = ""
 AVATAR = ""
@@ -81,7 +81,7 @@ PLUGINS = ['related_posts', 'tipue_search', 'liquid_tags.img',
 
 # Static paths and cname mapping
 PATH = "content"
-STATIC_PATHS = ['images', 'extra/custom.css']
+STATIC_PATHS = ['images', 'extra/custom.css', 'form']
 EXTRA_PATH_METADATA = {
                        'extra/custom.css': {'path': 'static/custom.css'}
                        }

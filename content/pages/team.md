@@ -13,14 +13,6 @@ Summary: Team members of the SIBIS research group
 </div>
 ---
 <div>
-    <img src='../images/team/sara.png' hspace='20'>
-    <a href='../pages/personal/sara-benito.html'>
-        <strong>Sara Benito Arce M.Sc.,</strong>
-    </a>
-    <b>Biomedical Software Engineer</b>
-</div>
----
-<div>
     <img src='../images/team/weiwei.png' hspace='20'>
     <a href='../pages/personal/weiwei-chu.html'>
         <strong>Weiwei Chu M.Sc.,</strong>
@@ -86,15 +78,6 @@ Summary: Team members of the SIBIS research group
 </div>
 
 ---
-<div>
-    <img src='../images/team/qingyu.png' hspace='20'>
-    <a href='http://stanford.edu/~qingyuz/'>
-        <strong>Qingyu Zhao Ph.D.,</strong>
-    </a>
-    <b>Postdoctoral Fellow</b>
-</div>
-
----
 
 <div>
     <img src='../images/team/natalie.png' hspace='20'>
@@ -103,5 +86,15 @@ Summary: Team members of the SIBIS research group
     </a>
     <b>Program Director</b>
 </div>
+
+---
+<div>
+    <img src='../images/team/qingyu.png' hspace='20'>
+    <a href='http://stanford.edu/~qingyuz/'>
+        <strong>Qingyu Zhao Ph.D.,</strong>
+    </a>
+    <b>Postdoctoral Fellow</b>
+</div>
+
 
 

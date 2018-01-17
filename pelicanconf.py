@@ -13,7 +13,7 @@ TIMEZONE = "America/Vancouver"
 
 DEFAULT_LANG = "en"
 
-conda_env = os.environ.get('CONDA_ENV_PATH', "")
+conda_env = os.environ.get('CONDA_PREFIX', "")
 
 # Theme
 if conda_env == "":

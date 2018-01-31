@@ -2,13 +2,13 @@ Title:
 URL:
 Slug: home
 Save_as: index.html
-Author: Nolan Nichols <http://orcid.org/0000-0003-1099-3328>
+Author: Kilian Pohl 
 
 <center><img src="images/logo/SIBIS-logo.png" alt="SIBIS" align="middle" style="width:40%"></center>
 
 # Overview
 
-Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of linked and interoperable technologies for the management, analysis, and sharing of biomedical imaging data. The platform contributes new technologies that advance the understanding of normal biological structure and function and disease processes.
+Scalable Informatics for Biomedical Imaging Studies (SIBIS) is a platform of linked and interoperable technologies for the management, analysis, and sharing of biomedical imaging data. The platform contributes new technologies that advance the understanding of normal biological structure and function and disease processes. SIBIS is central to the analysis performed by the <A HREF=http://med.stanford.edu/brainaddictionlab.html>Brain Addiction Laboratory</A> (a joint research effort between SRI International and Stanford University) and its collaborators. 
 
 # Projects
 

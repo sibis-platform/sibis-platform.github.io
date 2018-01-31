@@ -1,6 +1,6 @@
 Title:
 Slug: team
-Author: Nolan Nichols <http://orcid.org/0000-0003-1099-3328>
+Author: Kilian Pohl
 Summary: Team members of the SIBIS research group
 #Team
 ---
@@ -61,7 +61,7 @@ Summary: Team members of the SIBIS research group
 
 <div>
     <img src='../images/team/kilian.png' hspace='20'>
-    <a href='http://web.stanford.edu/~kpohl/'>
+    <a href='https://www.sri.com/about/people/kilian.pohl/'>
         <strong>Kilian Pohl Ph.D.,</strong>
     </a>
     <b>Program Director</b>

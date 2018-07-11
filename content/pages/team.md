@@ -13,16 +13,6 @@ Summary: Team members of the SIBIS research group
 </div>
 ---
 <div>
-    <img src='../images/team/weiwei.png' hspace='20'>
-    <a href='../pages/personal/weiwei-chu.html'>
-        <strong>Weiwei Chu M.Sc.,</strong>
-    </a>
-    <b>Database Manager</b>
-</div>
-
----
-
-<div>
     <img src='../images/team/michael.png' hspace='20'>
     <a href='../pages/personal/michael-hasak.html'>
         <strong>Michael Hasak,</strong>
@@ -32,21 +22,12 @@ Summary: Team members of the SIBIS research group
 
 ---
 <div>
-    <img src='../images/team/djk.png' hspace='20'>
-    <a href='http://web.stanford.edu/~djkwon/'>
-        <strong>Dongjin Kwon Ph.D.,</strong>
-    </a>
-    <b> Research Scientist</b>
-</div>
----
-<div>
     <img src='../images/team/eric.png' hspace='20'>
     <a href='https://www.sri.com/about/people/eric-peterson'>
         <strong>Eric Peterson Ph.D.,</strong>
     </a>
     <b>Research Scientist</b>
 </div>
-
 ---
 
 <div>
@@ -55,6 +36,15 @@ Summary: Team members of the SIBIS research group
         <strong>Adolf Pfefferbaum M.D.,</strong>
     </a>
     <b>Center Director</b>
+</div>
+
+---
+<div>
+    <img src='../images/team/simon.jpg' hspace='20'>
+    <a href='https://www.linkedin.com/in/simonpodhajsky'>
+        <strong>Simon Podhajsky,</strong>
+    </a>
+    <b>Data Manager</b>
 </div>
 
 ---
@@ -95,6 +85,3 @@ Summary: Team members of the SIBIS research group
     </a>
     <b>Postdoctoral Fellow</b>
 </div>
-
-
-

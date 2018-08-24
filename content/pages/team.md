@@ -17,7 +17,25 @@ Summary: Team members of the SIBIS research group
     <a href='../pages/personal/michael-hasak.html'>
         <strong>Michael Hasak,</strong>
     </a>
-    <b>Senior Software Engineer </b>
+    <b>Senior Software Engineer</b>
+</div>
+
+---
+<div>
+    <img src='../images/team/nicolas-honnorat-120x150.jpg' hspace='20'>
+    <a href='https://honnorat.ovh/'>
+        <strong>Nicolas Honnorat Ph.D.,</strong>
+    </a>
+    <b>Research Scientist</b>
+</div>
+
+---
+<div>
+    <img src='../images/team/lisa-jack-120x150.jpg' hspace='20'>
+    <a href='../pages/personal/lisa-jack.html'>
+        <strong>Lisa Jack M.A.,</strong>
+    </a>
+    <b>Research Administrator</b>
 </div>
 
 ---
@@ -41,7 +59,7 @@ Summary: Team members of the SIBIS research group
 ---
 <div>
     <img src='../images/team/simon.jpg' hspace='20'>
-    <a href='https://www.linkedin.com/in/simonpodhajsky'>
+    <a href='../pages/personal/simon-podhajsky.html'>
         <strong>Simon Podhajsky,</strong>
     </a>
     <b>Data Manager</b>
@@ -51,7 +69,7 @@ Summary: Team members of the SIBIS research group
 
 <div>
     <img src='../images/team/kilian.png' hspace='20'>
-    <a href='https://www.sri.com/about/people/kilian.pohl/'>
+    <a href='https://www.sri.com/about/people/kilian-pohl'>
         <strong>Kilian Pohl Ph.D.,</strong>
     </a>
     <b>Program Director</b>

@@ -1,0 +1,14 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <nav>
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">Home</a>
+      <a class="site-title" href="{{ "projects" | relative_url }}">Projects</a>
+      <a class="site-title" href="{{ "team" | relative_url }}">Team</a>
+      <a class="site-title" href="{{ "contact" | relative_url }}">Contact</a>
+      <a class="donate_button" href="{{ "donate" | relative_url }}">Donate</a>
+    </nav>
+  </div>
+</header>

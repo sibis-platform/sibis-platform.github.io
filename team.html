@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<h1> Team </h1>
+
+<h2> Research </h2>
+<div class="team_grid">
+  {% for m in site.team_members %}
+  {% if m.Group == "Research" %}
+  <div class="team_member">
+    <img src='{{m.Image | relative_url}}'>
+    <div>
+      <a href={{m.URL | relative_url }}>{{ m.Name }}</a>
+      <div>{{ m.Title }}</div>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<h2> SIBIS </h2>
+
+<div class="team_grid">
+  {% for m in site.team_members %}
+  {% if m.Group == "SIBIS" %}
+  <div class="team_member">
+    <img src='{{m.Image | relative_url}}'>
+    <div>
+      <a href={{m.URL | relative_url }}>{{ m.Name }}</a>
+      <div>{{ m.Title }}</div>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

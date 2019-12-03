@@ -1,0 +1,162 @@
+
+.address {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+.home {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.team_grid {
+	margin: 20px 0 0 0;
+  overflow: hidden;
+}
+
+.team_member {
+  position: relative;
+	float: left;
+	width: 30%;
+	box-sizing: border-box;
+	height: 250px;
+
+}
+
+.project_grid {
+	margin: 40px 0 0 0;
+  overflow: hidden;
+}
+
+.project_member {
+  position: relative;
+	float: left;
+	width: 48%;
+	box-sizing: border-box;
+	height: 350px;
+  margin: 1px;
+}
+
+.icon {
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.9;
+  transition: .5s ease;
+  background-color: $text-color;
+  display: block;
+}
+
+.project_member:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+.donate_button {
+  @include relative-font-size(1.625);
+  background-color: #7db08d;
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: right;
+  padding: 14px 16px;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+.headshot {
+  float: left;
+  margin-right: 10px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    padding: 0px 6px;
+  }
+  .site-title {
+    @include relative-font-size(1.625);
+    font-weight: 300;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    letter-spacing: -1px;
+    margin: 1px;
+    float: left;
+    padding: 0px 2px;
+
+
+    &,
+    &:visited {
+      color: $grey-color-dark;
+    }
+  }
+  .donate_button {
+    background-color: #7db08d;
+    @include relative-font-size(1.625);
+    font-weight: 300;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    letter-spacing: -1px;
+    float: right;
+    margin: 1px;
+    padding: 0px 2px;
+
+    &,
+    &:visited {
+      color: $grey-color-dark;
+    }
+  }
+  .home {
+    display: block;
+  }
+  .project_member {
+    position: relative;
+  	float: left;
+  	width: 95%;
+  	box-sizing: border-box;
+  	height: 250px;
+
+  }
+  .team_member {
+    position: relative;
+  	float: left;
+  	width: 50%;
+  	box-sizing: border-box;
+  	height: 250px;
+
+  }
+
+}

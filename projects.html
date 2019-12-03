@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /projects
+---
+
+<h1> Projects </h1>
+
+<div class="project_grid">
+  {% for p in site.projects %}
+  <div class="project_member">
+    <img class="icon" src='{{p.Image | relative_url}}'>
+    <a class="overlay" href='{{p.url | relative_url }}'>
+      <div class="text">{{ p.Title }}</div>
+    </a>
+  </div>
+  {% endfor %}
+</div>
